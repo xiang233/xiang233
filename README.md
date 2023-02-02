@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+personal website (w/ project demos): https://xiang233.github.io/
+email: samantha.z@wustl.edu

@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 
 personal website (w/ project demos): https://xiang233.github.io/
+
 email: samantha.z@wustl.edu
